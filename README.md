@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Random Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 <div align="center">
 
