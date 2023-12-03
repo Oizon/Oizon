@@ -51,36 +51,10 @@
   </tr>
 </table>
 
-<!--
-# 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
--->
-
-<!--
-# Salesforce Community
-<div align="left">
-  <a href="https://join.slack.com/t/salesforcementor/shared_invite/zt-1a8xh8af6-ujsKuIAZ14YpBQHAmMFaQA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Salesforce Mentor Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  </a>
-</div>
--->
-
 # 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oizon&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oizon&theme=chartreuse-dark&hide_border=false" height="150" alt="contribution graph">
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Oizon&theme=chartreuse-dark&hide_border=false" height="150" alt="contribution graph">-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oizon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
