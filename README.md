@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm William Galinat</h1>
+<h1 align="center">Hi 🚀, I'm William Galinat</h1>
 <h3 align="center">Coding in the cloud since 2022 👩🏿‍💻</h3>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 🏅 [6x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/wgalinat)
 
-# ☁ Salesforce Credentials
+# 🌩️ Salesforce Credentials
 
 <div align="center">
     <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="100" alt="Platform Developer 1"/>
@@ -28,7 +28,7 @@
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k000008zZI2&oid=00DF0000000gZsu&lastMod=1662618561000" height="100" alt="Associate"/>
 </div>
 
-# ⚙ Salesforce Technologies
+# ⚙️ Salesforce Technologies
 <table width="100%" style="border:0px;">
   <tr style="border:0px;" >
     <td align="center" style="border:0px;">
@@ -58,9 +58,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oizon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 😂 Random Dev Meme
+## 🧐 Random Dev Meme
 <div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )-->
