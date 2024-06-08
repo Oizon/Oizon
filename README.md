@@ -57,7 +57,7 @@
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Oizon&theme=chartreuse-dark&hide_border=false" height="150" alt="contribution graph">-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oizon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<!--
 ## 🧐 Random Dev Meme
 <div align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
